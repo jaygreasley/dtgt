@@ -1,0 +1,127 @@
+header {
+	background-color: #000;
+	color: #ccc;
+}
+
+header ul {
+
+	display:inline;
+}
+
+
+header li {
+
+	display:inline;
+}
+
+#wrapper {
+	width: 1000px;
+	margin: 10px auto;
+}
+
+#carousel {
+	float:left;
+	width: 30em;
+	height: 18em;
+	background-color: #000;
+
+}
+
+#row3 {
+	height: 28em;
+}
+
+#row3 h2 {
+	position: relative;
+	top: -24em;
+}
+
+#section2 {
+	overflow: auto;
+}
+
+#section4 {
+
+	width: 20em;
+	height: 14em;
+	position: relative;
+	overflow: auto;
+	background-color: #ccc;	
+}
+
+
+#section5 {
+
+	width: 20em;
+	height: 22em;
+	position: relative;
+	top: -14em;
+	left: 21em;
+	overflow: auto;
+	background-color: #ccc;
+}
+
+
+#section6 {
+
+	width: 20em;
+	height: 24em;
+	position: relative;
+	top: -36em;
+	left: 42em;
+	overflow: auto;
+	background-color: #ccc;
+}
+
+footer {
+	height: 20em;
+	position: relative;
+	top: 1em;
+	background-color: #000;
+	color: #ccc;
+}
+
+#footer_col1 {
+
+	width: 15em;
+	height: 10em;
+	position: relative;
+	top: 0;
+	left: 0em;
+	overflow: auto;
+	
+}
+#footer_col2 {
+
+	width: 15em;
+	height: 10em;
+	position: relative;
+	top: -10em;
+	left: 16em;
+	overflow: auto;
+	
+}
+#footer_col3 {
+
+	width: 15em;
+	height: 12em;
+	position: relative;
+	top: -20em;
+	left: 32em;
+	overflow: auto;
+	
+}
+
+#footer_col4 {
+
+	width: 15em;
+	height: 18em;
+	position: relative;
+	top: -32em;
+	left: 48em;
+	overflow: auto;
+	
+}
+img {
+	background-color: #000; 
+}
